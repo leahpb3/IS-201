@@ -1,0 +1,66 @@
+.header{
+    background-image: url('../assets/img/monstax.jpeg');
+    background-size: cover;
+    background-position: center center;
+
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 600px;
+    padding: 5px;
+    margin: 5px;
+    
+    color: #ffffff;
+}
+.headerfont{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+.nav{
+    text-align: right;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.space{
+    height: 160px;
+}
+p{
+    color: rgb(88, 136, 224);
+}
+.bgcolor{
+    background-color:rgb(250, 238, 236);
+}
+.headerspace{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.border{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px; 
+}
+.listdiv{
+    padding: 5px;
+    height: 150px;
+    width: 510px;
+}
+.bold{
+    font-weight:bold;
+}
+.backtotop{
+    color: rgb(220, 77, 20);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    /* padding-left: 460px; */
+}
+ol{
+    padding-bottom: 300px;
+}
